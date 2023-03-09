@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SmartEagle</string>
+    <string name="title_activity_main2">SmartEagle</string>
+    <string name="title_home">Home</string>
+    <string name="title_control">Control</string>
+</resources>

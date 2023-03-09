@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".ui.control.ControlFragment">
+
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="390dp"
+        android:gravity="center"
+        android:text="No Connect"
+        android:textSize="50sp" />
+
+    <Switch
+        android:id="@+id/switch1"
+        android:layout_width="262dp"
+        android:layout_height="55dp"
+        android:gravity="center_horizontal"
+        android:scaleX="1.5"
+        android:scaleY="1.5"
+
+        android:text="Switch" />
+
+</LinearLayout>
